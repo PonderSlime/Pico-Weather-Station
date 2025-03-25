@@ -49,8 +49,8 @@ GP14 19 |o     o| -19 GP17
 GP15 20 |o     o| -20 GP16
         ---------"""
 
-    if output:
-        print(pins)
+    #if output:
+        #print(pins)
     return pins
 
 class PinMixin:
